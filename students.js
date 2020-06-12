@@ -1,4 +1,4 @@
-export const students = [
+[
 {
 	id: '4447',
 	name: 'Amina Alkazemi',
@@ -27,4 +27,4 @@ export const students = [
 	major: 'Journalism',
 	gpa: 2.9
 }
-];
+]
