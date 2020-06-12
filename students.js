@@ -27,4 +27,3 @@
 	major: 'Journalism',
 	gpa: 2.9
 }
-];
