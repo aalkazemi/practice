@@ -1,4 +1,4 @@
-export const students = [
+
 {
 	id: '4447',
 	name: 'Amina Alkazemi',
